@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://medicare-efficiently-knight-flows.trycloudflare.com/vnc.html
+URL       : https://advisors-serial-bolt-phys.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-31 15:09:37
+Created   : 2026-08-31 20:09:35
 =======================================================
